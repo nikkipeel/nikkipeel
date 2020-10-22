@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{stroke:#F20671;stroke-width:0.75;stroke-miterlimit:10;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:52.145px;}
+	.st4{font-size:13.9053px;}
+	.st5{fill:none;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="26.1277" y1="100.5957" x2="172.1702" y2="100.5957">
+	<stop  offset="0" style="stop-color:#F20671"/>
+	<stop  offset="0.3717" style="stop-color:#F20872;stop-opacity:0.924"/>
+	<stop  offset="0.5056" style="stop-color:#F20F76;stop-opacity:0.8966"/>
+	<stop  offset="0.601" style="stop-color:#F21A7C;stop-opacity:0.8771"/>
+	<stop  offset="0.6782" style="stop-color:#F12B85;stop-opacity:0.8613"/>
+	<stop  offset="0.7443" style="stop-color:#F14191;stop-opacity:0.8478"/>
+	<stop  offset="0.8029" style="stop-color:#F05D9F;stop-opacity:0.8358"/>
+	<stop  offset="0.8559" style="stop-color:#EF7DB1;stop-opacity:0.8249"/>
+	<stop  offset="0.9046" style="stop-color:#EFA3C5;stop-opacity:0.815"/>
+	<stop  offset="0.9479" style="stop-color:#EECCDB;stop-opacity:0.8061"/>
+	<stop  offset="0.9778" style="stop-color:#EDEDED;stop-opacity:0.8"/>
+</linearGradient>
+<ellipse class="st0" cx="99.1" cy="100.6" rx="73" ry="99.4"/>
+<g>
+	<defs>
+		<ellipse id="SVGID_2_" cx="97" cy="100" rx="68" ry="98.8"/>
+	</defs>
+	<clipPath id="SVGID_3_">
+		<use xlink:href="#SVGID_2_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_3_);">
+		
+			<image style="overflow:visible;" width="640" height="942" xlink:href="../../Users/npeel/Pictures/selfie.jpg"  transform="matrix(0.2535 0 0 0.2317 24.9177 -8.0022)">
+		</image>
+	</g>
+	<use xlink:href="#SVGID_2_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+</g>
+<text transform="matrix(1.3806 0 0 1 3.655 45.0063)"><tspan x="0" y="0" class="st1 st2 st3">{</tspan><tspan x="14.8" y="0" class="st1 st2 st4"> </tspan></text>
+<rect x="14.7" y="3.9" class="st5" width="5.8" height="1.2"/>
+<text transform="matrix(-1.3804 -2.762466e-02 2.000864e-02 -0.9998 191.5414 154.3045)"><tspan x="0" y="0" class="st1 st2 st3">{</tspan><tspan x="14.8" y="0" class="st1 st2 st4"> </tspan></text>
+</svg>
