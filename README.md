@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm a junior web developer from Michigan, USA. I live with epilepsy and enjoy spending time outdoors with my family :family_man_woman_boy:	:service_dog: I love building responsive front ends and reusable web components! I can build a website using CSS grid, variables, and Flexbox, as well as utilize frameworks such as Bootstrap or Tailwind. Accessiblity is very important to me as a developer and disabled person. I'm currently studying WCAG (*Web Content Accessiblity Guidelines*) to expand my knowledgebase and become a certified Web Accessiblity Specialist. I'm also seeking remote work opportunities to contribute toward a development team. <br> <br> Thank you for visiting my Github profile! 	:heart:
 
 
-<code><img align="right" src="/img/selfielogo.jpg" width="250px" height="auto" /> </code>
+<code><img align="right" src="/img/selfielogo.jpg" width="30%" height="auto" /> </code>
 
 [Download my resume](/img/resume1020.pdf)
 
@@ -43,27 +43,27 @@ I'm a junior web developer from Michigan, USA. I live with epilepsy and enjoy sp
 - Using and customizing TailwindCSS
 - Troubleshooting code and testing
 
-#### 🔭 I am currently working on:
+#### :computer: I am currently working on:
 - Building reusable components using TailwindCSS
 - Creating templates for blogs, eCommerce, and landing pages
 - Testing existing code and refactoring for peak perfomance & accessiblity
+- Improving documentation
 
 <br />
-#### :computer: Languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=nikkipeel&theme=radical&show_icons=true&hide=contribs,prs" />
-
-<code><img width="10%" src="img/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="img/sass-lang-ar21.svg"></code>
-<code><img width="10%" src="img/javascript-horizontal.svg"></code>
+	<img width="500px" src="https://github-readme-stats.vercel.app/api?username=nikkipeel&theme=radical&show_icons=true&hide=contribs,prs" />
 <br />
-<code><img width="10%" src="img/getbootstrap-ar21.svg"></code>
-<code><img width="10%" src="img/tailwindcss-ar21.svg"></code>
-<code><img width="10%" src="img/materialize.svg"></code>
+<code><img  width="20%" src="img/w3_html5-ar21.svg"></code>
+<code><img width="20%" src="img/sass-lang-ar21.svg"></code>
+<code><img width="20%" src="img/javascript-horizontal.svg"></code>
 <br />
-<code><img width="10%" src="img/mongodb-ar21.svg"></code>
-<code><img width="10%" src="img/expressjs-ar21.svg"></code>
-<code><img width="10%" src="img/reactjs-ar21.svg"></code>
-<code><img width="10%" src="img/nodejs-ar21.svg"></code>
+<code><img width="100px" src="img/getbootstrap-ar21.svg"></code>
+<code><img width="20%" src="img/tailwindcss-ar21.svg"></code>
+<code><img width="20%" src="img/materialize.svg"></code>
+<br />
+<code><img width="20%" src="img/mongodb-ar21.svg"></code>
+<code><img width="20%" src="img/expressjs-ar21.svg"></code>
+<code><img width="20%" src="img/reactjs-ar21.svg"></code>
+<code><img width="20%" src="img/nodejs-ar21.svg"></code>
 </p>
 
