@@ -39,8 +39,8 @@ I'm a junior web developer from Michigan, USA. I live with epilepsy and enjoy sp
 
 #### 🌱 Things I am currently learning: 
 - Web Accessibility Content Guidelines
-- Building and publishing web applications with React
-- Using and customizing TailwindCSS
+- Styling websites and apps with TailwindCSS
+- Using Gatsby, React, and the Wordpress Rest API
 - Troubleshooting code and testing
 
 #### :computer: I am currently working on:
