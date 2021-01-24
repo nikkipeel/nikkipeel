@@ -44,7 +44,7 @@ I'm a junior web developer from Michigan. I live with epilepsy and enjoy spendin
 - Testing existing code and refactoring for peak perfomance & accessiblity
 - Redesigning my portfolio website with Bootstrap 5 
 
-#### :scroll: Current Blog posts:
+#### :scroll: Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Customizing the scrollbar with CSS](https://dev.to/nikkipeel/customizing-the-scrollbar-with-css-1ei7)
 - [Updates & Pandemic Projects](https://dev.to/nikkipeel/updates-pandemic-projects-3gbe)
