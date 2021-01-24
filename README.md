@@ -46,6 +46,10 @@ I'm a junior web developer from Michigan. I live with epilepsy and enjoy spendin
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Customizing the scrollbar with CSS](https://dev.to/nikkipeel/customizing-the-scrollbar-with-css-1ei7)
+- [Updates & Pandemic Projects](https://dev.to/nikkipeel/updates-pandemic-projects-3gbe)
+- [Epilepsy and ES6- nevertheless, she coded](https://dev.to/nikkipeel/epilepsy-and-es6-nevertheless-shecoded-1fgp)
+- [Am I a Developer yet?](https://dev.to/nikkipeel/am-i-a-developer-yet-meg)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
