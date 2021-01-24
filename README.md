@@ -44,6 +44,10 @@ I'm a junior web developer from Michigan. I live with epilepsy and enjoy spendin
 - Testing existing code and refactoring for peak perfomance & accessiblity
 - Redesigning my portfolio website with Bootstrap 5 
 
+#### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <br />
 <p>
 	<img width="500px" src="https://github-readme-stats.vercel.app/api?username=nikkipeel&theme=radical&show_icons=true&hide=contribs,prs" />
