@@ -14,20 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 
-## My name is ✨ Nikki Peel ✨
+<img src="/img/gh-banner.jpg" width="100%" height="auto" />
 
+### Hi there 👋 
+## My name is Nikki Peel  
 :rainbow_flag: Pronouns: She/her/hers
 
-I'm a junior web developer from Michigan, USA. I live with epilepsy and enjoy spending time outdoors with my family :family_man_woman_boy:	:service_dog: I love building responsive front ends and reusable web components! I can build a website using CSS grid, variables, and Flexbox, as well as utilize frameworks such as Bootstrap or Tailwind. Accessiblity is very important to me as a developer and disabled person. I'm currently studying WCAG (*Web Content Accessiblity Guidelines*) to expand my knowledgebase and become a certified Web Accessiblity Specialist. I'm also seeking remote work opportunities to contribute toward a development team. <br> <br> Thank you for visiting my Github profile! 	:heart:
+I'm a junior web developer from Michigan. I live with epilepsy and enjoy spending time outdoors with my family :family_man_woman_boy:	:service_dog: I love building responsive and accessible websites. My favorite frameworks are Tailwind and Bootstrap. Most of my days are spent coding, reading tech articles, researching solutions, improving existing code, or adding new content to my blogs. I'm also seeking remote work opportunities to contribute toward a development team. Thank you for visiting my Github profile! :heart:
 
+[Download my resume](/img/resume1220.pdf)
 
-<code><img align="right" src="/img/selfielogo.jpg" width="30%" height="auto" /> </code>
-
-[Download my resume](/img/resume1020.pdf)
-
-<br />
-  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nikkipeel)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikkipeel/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nikkipeel.dev@gmail.com)
@@ -36,18 +32,17 @@ I'm a junior web developer from Michigan, USA. I live with epilepsy and enjoy sp
 [![Dev.to](https://img.shields.io/badge/-DEV.to-000?style=flat&logo=Dev.to&logoColor=white)](https://dev.to/nikkipeel)
 
 
-
 #### 🌱 Things I am currently learning: 
 - Web Accessibility Content Guidelines
-- Styling websites and apps with TailwindCSS
-- Using Gatsby, React, and the Wordpress Rest API
+- Github Actions
+- Creating sites with Gatsby and React
 - Troubleshooting code and testing
 
 #### :computer: I am currently working on:
-- Building reusable components using TailwindCSS
-- Creating templates for blogs, eCommerce, and landing pages
+- Building templates with TailwindCSS
+- Adding content and features to my blogs
 - Testing existing code and refactoring for peak perfomance & accessiblity
-- Improving documentation
+- Redesigning my portfolio website with Bootstrap 5 
 
 <br />
 <p>
