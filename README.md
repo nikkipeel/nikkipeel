@@ -34,15 +34,14 @@ I'm a junior web developer from Michigan. I live with epilepsy and enjoy spendin
 
 #### 🌱 Things I am currently learning: 
 - Web Accessibility Content Guidelines
-- Github Actions
-- Creating sites with Gatsby and React
+- Creating sites with Gatsby and Wordpress
 - Troubleshooting code and testing
 
 #### :computer: I am currently working on:
-- Building templates with TailwindCSS
+- Attending Gatsby Conference 2021
 - Adding content and features to my blogs
 - Testing existing code and refactoring for peak perfomance & accessiblity
-- Redesigning my portfolio website with Bootstrap 5 
+- Redesigning my portfolio website with Tailwind and Gatsby
 
 #### :scroll: Blog posts:
 <!-- BLOG-POST-LIST:START -->
