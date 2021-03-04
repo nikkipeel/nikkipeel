@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## My name is Nikki Peel  
 :rainbow_flag: Pronouns: She/her/hers
 
-I'm a junior web developer from Michigan. I live with epilepsy and enjoy spending time outdoors with my family :family_man_woman_boy:	:service_dog: I love building responsive and accessible websites. My favorite frameworks are Tailwind and Bootstrap. Most of my days are spent coding, reading tech articles, researching solutions, improving existing code, or adding new content to my blogs. I'm also seeking remote work opportunities to contribute toward a development team. Thank you for visiting my Github profile! :heart:
+I'm a front end developer from Michigan. I live with epilepsy and enjoy spending time outdoors with my family :family_man_woman_boy:	:service_dog: I love building responsive and accessible websites. My favorite frameworks are Tailwind and Bootstrap. Most of my days are spent coding, reading tech articles, researching solutions, improving existing code, or adding new content to my blogs. I'm also seeking remote work opportunities to contribute toward a development team. Thank you for visiting my Github profile! :heart:
 
 [Download my resume](/img/resume1220.pdf)
 
@@ -38,10 +38,10 @@ I'm a junior web developer from Michigan. I live with epilepsy and enjoy spendin
 - Troubleshooting code and testing
 
 #### :computer: I am currently working on:
-- Attending Gatsby Conference 2021
-- Adding content and features to my blogs
-- Testing existing code and refactoring for peak perfomance & accessiblity
-- Redesigning my portfolio website with Tailwind and Gatsby
+- Rebuilding my Wordpress blog with Gatsby and GraphQL
+- Volunteering
+- Testing existing code and refactoring for peak perfomance & accessibility
+- Redesigning my portfolio website with Tailwind and React
 
 #### :scroll: Blog posts:
 <!-- BLOG-POST-LIST:START -->
