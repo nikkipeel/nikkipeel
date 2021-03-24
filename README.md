@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I'm a front end developer from Michigan. I live with epilepsy and enjoy spending time outdoors with my family :family_man_woman_boy:	:service_dog: I love building responsive and accessible websites. My favorite frameworks are Tailwind and Bootstrap. Most of my days are spent coding, reading tech articles, researching solutions, improving existing code, or adding new content to my blogs. I'm also seeking remote work opportunities to contribute toward a development team. Thank you for visiting my Github profile! :heart:
 
-[Download my resume](/img/resume1220.pdf)
+[Download my resume](/img/nikkipeel.pdf)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nikkipeel)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikkipeel/)
