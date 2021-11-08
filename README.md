@@ -48,7 +48,7 @@ I'm a front end developer from Michigan. I live with epilepsy and enjoy spending
 - [Adding Syntax Highlighting to Code Blocks with PrismJS](https://dev.to/nikkipeel/adding-syntax-highlighting-to-code-blocks-with-prismjs-1hn3)
 - [Styling with text-decoration](https://dev.to/nikkipeel/styling-with-text-decoration-5ck8)
 - [Customizing the scrollbar with CSS](https://dev.to/nikkipeel/customizing-the-scrollbar-with-css-1ei7)
-- [Updates & Pandemic Projects](https://dev.to/nikkipeel/updates-pandemic-projects-3gbe)
+- [Updates &amp; Pandemic Projects](https://dev.to/nikkipeel/updates-pandemic-projects-3gbe)
 - [Epilepsy and ES6- nevertheless, she coded](https://dev.to/nikkipeel/epilepsy-and-es6-nevertheless-shecoded-1fgp)
 <!-- BLOG-POST-LIST:END -->
 
