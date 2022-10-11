@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## My name is Nikki Peel  
 :rainbow_flag: Pronouns: She/her/hers
 
-I'm a front end developer from Michigan. I live with epilepsy and enjoy spending time outdoors with my family :family_man_woman_boy:	:service_dog: I love building responsive and accessible websites. My favorite frameworks are Tailwind and Bootstrap. Most of my days are spent coding, reading tech articles, researching solutions, improving existing code, or adding new content to my blogs. I'm also seeking remote work opportunities to contribute toward a development team. Thank you for visiting my Github profile! :heart:
+I'm a front end developer from Michigan. I live with epilepsy and enjoy spending time outdoors with my family :family_man_woman_boy:	:service_dog: I love building responsive and accessible websites.
 
 [Download my resume](/img/nikkipeel.pdf)
 
@@ -38,18 +38,15 @@ I'm a front end developer from Michigan. I live with epilepsy and enjoy spending
 - Troubleshooting code and testing
 
 #### :computer: I am currently working on:
-- Rebuilding my Wordpress blog with Gatsby and GraphQL
-- Volunteering
+- Rebuilding my Wordpress blog with styled components, Gatsby and GraphQL
 - Testing existing code and refactoring for peak perfomance & accessibility
-- Redesigning my portfolio website with Tailwind and React
+- Redesigning my portfolio website with CSS and Gatsby
 
 #### :scroll: Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Adding Syntax Highlighting to Code Blocks with PrismJS](https://dev.to/nikkipeel/adding-syntax-highlighting-to-code-blocks-with-prismjs-1hn3)
 - [Styling with text-decoration](https://dev.to/nikkipeel/styling-with-text-decoration-5ck8)
 - [Customizing the scrollbar with CSS](https://dev.to/nikkipeel/customizing-the-scrollbar-with-css-1ei7)
-- [Updates &amp; Pandemic Projects](https://dev.to/nikkipeel/updates-pandemic-projects-3gbe)
-- [Epilepsy and ES6- nevertheless, she coded](https://dev.to/nikkipeel/epilepsy-and-es6-nevertheless-shecoded-1fgp)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
