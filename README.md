@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-
-<img src="/img/gh-banner.jpg" width="100%" height="auto" />
-
 ### Hi there 👋 
 ## My name is Nikki Peel  
 :rainbow_flag: Pronouns: She/her/hers
@@ -29,13 +26,6 @@ I'm a front end developer from Michigan. I live with epilepsy and enjoy spending
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nikkipeel.dev@gmail.com)
 
 [![Codepen](https://img.shields.io/badge/-CodePen-000?style=flat&logo=Codepen&logoColor=white)](https://codepen.io/nikki-peel)
-[![Dev.to](https://img.shields.io/badge/-DEV.to-000?style=flat&logo=Dev.to&logoColor=white)](https://dev.to/nikkipeel)
-
-
-#### 🌱 Things I am currently learning: 
-- Web Accessibility Content Guidelines
-- Creating sites with Gatsby and Wordpress
-- Troubleshooting code and testing
 
 #### :computer: I am currently working on:
 - Rebuilding my Wordpress blog with styled components, Gatsby and GraphQL
@@ -52,18 +42,6 @@ I'm a front end developer from Michigan. I live with epilepsy and enjoy spending
 <br />
 <p>
 	<img width="500px" src="https://github-readme-stats.vercel.app/api?username=nikkipeel&theme=radical&show_icons=true&hide=contribs,prs" />
-<br />
-<code><img  width="20%" src="img/w3_html5-ar21.svg"></code>
-<code><img width="20%" src="img/sass-lang-ar21.svg"></code>
-<code><img width="20%" src="img/javascript-horizontal.svg"></code>
-<br />
-<code><img width="100px" src="img/getbootstrap-ar21.svg"></code>
-<code><img width="20%" src="img/tailwindcss-ar21.svg"></code>
-<code><img width="20%" src="img/materialize.svg"></code>
-<br />
-<code><img width="20%" src="img/mongodb-ar21.svg"></code>
-<code><img width="20%" src="img/expressjs-ar21.svg"></code>
-<code><img width="20%" src="img/reactjs-ar21.svg"></code>
-<code><img width="20%" src="img/nodejs-ar21.svg"></code>
+
 </p>
 
