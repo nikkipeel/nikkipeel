@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 I'm a front end developer living in Michigan
 
-[Download my resume](/img/nikkipeel.pdf)
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nikkipeel)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikkipeel/)
 
